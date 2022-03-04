@@ -1,3 +1,6 @@
 [submodule "gscam"]
 	path = gscam
 	url = https://github.com/hap1961/gscam.git
+[submodule "ping1d_sonar"]
+	path = ping1d_sonar
+	url = https://github.com/FletcherFT/ping1d_sonar.git
